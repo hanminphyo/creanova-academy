@@ -11,10 +11,10 @@
   font-weight: bold;
   border-bottom: 3px solid #fff;
 }
-nav a {
+.navbar-nav a {
   color: #fff !important;
 }
-nav a:hover {
+.navbar-nav a:hover {
   border-bottom: 3px solid #fff;
 }
 .btn-search {
@@ -26,7 +26,4 @@ nav a:hover {
 }
 footer {
   background-color: #edebd7;
-}
-.social-icons i {
-  font-size: 20px;
 }
